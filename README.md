@@ -1,10 +1,10 @@
 # Responsive-Website
-A responsive website with drop down menu and slick animation
+A responsive website with drop down menu and slick animation feel free to use it and give this repo a star :)
 
 # Languages Used 
-HTML
-CSS 
-JS
+* HTML
+* CSS 
+* JS
 
 # Sreenshot
 
